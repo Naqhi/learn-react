@@ -22,6 +22,7 @@ import Send from './components/send';
   render (){
     return (
       <div className="app">
+        {/* naqhi */}
         {/* <Message /> */}
         <Send/>
         {/* <Greet name= "naqhi" >
